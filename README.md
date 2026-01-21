@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🛡️ CyberMedShield: Attacks & Defenses in Machine Learning Models
 
 ## 📌 Overview
